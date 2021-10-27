@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(236, 185, 118);
+}
+div{
+    text-align: center;
+    
+    
+}
+h1{
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    width:250px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height:80px;
+    background-color: rgb(5, 107, 114);
+    border-radius: 15px;
+    color:white;
+}
+button:hover{
+    background-color: chocolate;
+}
